@@ -1,0 +1,22 @@
+{
+    "title": "Meta-Analysis",
+    "description": "Meta-Analysis on ",
+    "root": "./book",
+    "plugins":[],
+    "links": {
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false,
+            "all": false
+        },
+        "sidebar": {
+            "DAPHNE": "http://www.daphne4nfdi.de",
+            "PaNOSC": "https://panosc.eu",
+            "ExPaNDS": "https://expands.eu",
+            "EOSC": "https://eosc-portal.eu/",
+            "OpenAire": "https://www.openaire.eu/",
+            "EUDAT": "https://eudat.eu/"
+        }
+    }
+}
