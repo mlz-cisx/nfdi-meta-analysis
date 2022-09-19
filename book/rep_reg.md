@@ -19,3 +19,7 @@ https://zenodo.org/
 
 ## OpenDOAR
 https://v2.sherpa.ac.uk/opendoar/
+
+## Figshare
+https://figshare.com
+https://knowledge.figshare.com
