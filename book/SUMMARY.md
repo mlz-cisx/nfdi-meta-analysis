@@ -9,6 +9,8 @@
 	* [PaN]()
 		* [PaNOSC](projects/pan/panosc.md)
 		* [ExPaNDS](projects/pan/expands.md)
+	* [FAIR](projects/fair/fair.md)
+		* [FAIR4RS](projects/fair/fair4rs.md)
 	* [Galaxy](projects/galaxy/galaxy.md)
 		* [Pulsar](projects/galaxy/pulsar.md)
 * [Service Provider]()
