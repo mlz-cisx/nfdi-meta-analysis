@@ -11,12 +11,7 @@
             "all": false
         },
         "sidebar": {
-            "DAPHNE": "http://www.daphne4nfdi.de",
-            "PaNOSC": "https://panosc.eu",
-            "ExPaNDS": "https://expands.eu",
-            "EOSC": "https://eosc-portal.eu/",
-            "OpenAire": "https://www.openaire.eu/",
-            "EUDAT": "https://eudat.eu/"
+            "DAPHNE": "http://www.daphne4nfdi.de"
         }
     }
 }

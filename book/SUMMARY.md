@@ -4,7 +4,7 @@
 * [Cookbooks](cookbooks.md)
 * [Education](education.md)
 * [FAIR](fair/fair.md)
-	* [Software](fair4rs.md)
+	* [Software](fair/fair4rs.md)
 * Sample Management
 	* [Secop](secop.md)
 * Existing Projects
