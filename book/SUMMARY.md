@@ -13,7 +13,7 @@
 		* [ExPaNDS](projects/pan/expands.md)
 * [Workflow Engines](workflow_engines/workflow_engines.md)
 	* [Galaxy Project](workflow_engines/galaxy.md)
-	* [Prefact Cloud](workflow_engines/prefact.md)
+	* [Prefact](workflow_engines/prefect.md)
 * [Service Provider]()
 	* [OpenAIRE](service_provider/openaire.md)
 	* [EUDAT](service_provider/eudat.md)

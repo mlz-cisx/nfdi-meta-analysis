@@ -41,6 +41,6 @@ Full documentation for the project can be found on [Read The Docs](https://pulsa
 https://training.galaxyproject.org/training-material/topics/admin/tutorials/pulsar/tutorial.html
 
 
-## Questions
+# Questions
 
 How would be load in our data, where and how many servers would we run and how would we achive that the workflow is processed, where the data lies?
