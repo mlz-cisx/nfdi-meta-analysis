@@ -6,7 +6,7 @@
 * [FAIR](fair/fair.md)
 	* [Software](fair/fair4rs.md)
 * Sample Management
-	* [Secop](secop.md)
+	* [Secop](sample_management/secop.md)
 * Existing Projects
 	* PaN
 		* [PaNOSC](projects/pan/panosc.md)
