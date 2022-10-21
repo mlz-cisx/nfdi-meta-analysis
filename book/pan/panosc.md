@@ -8,7 +8,7 @@ PaNOSC is a European project for making FAIR data a reality in 6 European Resear
 https://www.panosc.eu/deliverables/deliverable-3-1-api-definition-common-search-api/
 D3.1 marks the delivery of the first version of a common search API (Application Programming Interface) for open data. This API will be implemented by all PaNOSC partner sites and ExPaNDS and any further facilities that want to join this effort as part of the EOSC. This search API allows to find datasets and data publications based on relevant domain specific metadata and can be used by third parties to find data that has been released from any facility-imposed embargo period, as well as by the original researchers. This will be an important entry point for anyone to use the EOSC visualisation, processing or data transfer services that are being developed in other PaNOSC Work Packages. 
 
-The common search API is standardized to the outside. It needs to be implemented seperately for every metadata catalog however.
+The common search API is standardized to the outside. It needs to be implemented seperately for every metadata catalogue however.
 
 - https://indico.esss.lu.se/event/1373/contributions/10464/attachments/9757/15633/2020-02-11_harvesting.pdf
 - Uses Loopback and its search filter
@@ -34,7 +34,7 @@ https://github.com/panosc-eu/harvest-api
 Harvesting is a process done by other repository registries. They copy the provided metadata and make it available on their website, along with a link to the original source. For more information on repository registries, go to the dedicated section further down below.
 
 
-## Data Catalog
+## Data Catalogue
 https://www.panosc.eu/services/data-catalogue/
 This document marks the delivery of a federated domain specific search as a service for open data from PaN RIs. The search API service is running and serves live data from PaNOSC and ExPaNDS partner sites (ESRF, ESS, ILL and MaxIV). There is even a user web frontend that has been created in collaboration with WP4. 
 
@@ -42,7 +42,7 @@ The work builds on the two previous deliverables of PaNOSC WP3. First the API wa
 
 - Panos uses b2find, which is a service by EOS: https://b2find.eudat.eu/group/panosc
 
-## Software Catalog
+## Software Catalogue
 https://www.panosc.eu/services/pan-software-catalogue/
 
 ## Data Analysis

@@ -11,6 +11,9 @@ https://providers.eosc-portal.eu/home
 ## FAIRsharing
 https://fairsharing.org/
 
+## Research Object Hub - RO Hub
+https://reliance.rohub.org/
+
 ## Re3Data
 https://www.re3data.org/
 

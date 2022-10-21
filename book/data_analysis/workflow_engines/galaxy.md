@@ -1,5 +1,5 @@
 # Galaxy Project
-##### tags: `#PIs` `#TA2` `#TA3`
+##### tags: `#TA2` `#TA3`
 
 [Galaxy](https://galaxyproject.org/use/) is an open-source platform for FAIR data analysis that enables users to:
 
@@ -12,6 +12,11 @@ The **Galaxy Community** is actively involved in helping the ecosystem improve a
 
 
 https://galaxyproject.org/get-started/
+
+
+## Sources
+
+Galaxy implements the concept of data sources. You can add data sources from wich users can import data from to apply their workflows on.
 
 
 ## Available Tools

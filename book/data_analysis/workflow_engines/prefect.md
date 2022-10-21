@@ -1,7 +1,7 @@
 # Prefect
-##### tags: `#PIs` `#TA2` `#TA3`
+##### tags: `#TA2` `#TA3`
 
-[The Prefect Hybrid Model](https://medium.com/the-prefect-blog/the-prefect-hybrid-model-1b70c7fd296) allowing for seperation of workflow management and workflow processing.
+[The Prefect Hybrid Model](https://medium.com/the-prefect-blog/the-prefect-hybrid-model-1b70c7fd296) allowing for seperation of workflow management and workflow processing. This means the management can be done on one server while the data and the procession is done on different servers.
 
 
 ## Functionality
@@ -31,6 +31,11 @@ Agents run inside a user's architecture, and are responsible for starting and mo
 * [More...](https://docs-v1.prefect.io/orchestration/agents/overview.html#agent-types)
 
 
+## Server
+
+It is possible to deploy our own [Prefect Cloud](https://docs.prefect.io/getting-started/overview/#get-started-with-prefect-2) (Prefect Hybrid Model), where we run one server instance, while connecting multiple storage & compute instances.
+
+
 # Questions
 
-How would be build a federated infrastructure with that. Multiple Datastorages but only one management server. Do we even want only one management server? How would we manage the workflows across multiple instances then?
+How would we manage the workflows across multiple instances? How would we route the execution of the workflow to be done on the instances where the data is already available?

@@ -1,8 +1,10 @@
 {
     "title": "Meta-Analysis",
-    "description": "Meta-Analysis on ",
+    "description": "Meta-Analysis on existing software, services and platforms for Open Science",
     "root": "./book",
-    "plugins":[],
+    "plugins":[
+        "collapse-expand-chapters"
+    ],
     "links": {
         "sharing": {
             "google": false,
@@ -11,7 +13,9 @@
             "all": false
         },
         "sidebar": {
-            "DAPHNE": "http://www.daphne4nfdi.de"
+            "DAPHNE": "http://www.daphne4nfdi.de",
+            "Service Catalog": "https://marketplace.eosc-portal.eu/services",
+            "Project Catalog": "https://eosc-portal.eu/about/eosc-projects"
         }
     }
 }

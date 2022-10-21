@@ -5,6 +5,6 @@
 - Reuse Common Search API
 - Use online service like OpenAIRE or EUDAT
     - Link DAPHNE project
-    - Make Data catalog available
+    - Make Data catalogue available
     - Also possible to use for data upload / sharing
-- Software Catalog : Online service or PaNOSC implementation
+- Software Catalogue : Online service or PaNOSC implementation
