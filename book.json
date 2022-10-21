@@ -2,9 +2,7 @@
     "title": "Meta-Analysis",
     "description": "Meta-Analysis on existing software, services and platforms for Open Science",
     "root": "./book",
-    "plugins":[
-        "collapse-expand-chapters"
-    ],
+    "plugins":[],
     "links": {
         "sharing": {
             "google": false,
