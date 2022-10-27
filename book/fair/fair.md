@@ -1,4 +1,4 @@
-# FAIR - **F**inable, **A**ccessible, **I**nteroperabile & **R**eusable
+# FAIR - **F**indable, **A**ccessible, **I**nteroperabile & **R**eusable
 
 https://www.go-fair.org/
 
