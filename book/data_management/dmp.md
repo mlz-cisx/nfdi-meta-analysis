@@ -10,12 +10,12 @@ ARGOS is the joint effort of OpenAIRE and EUDAT to deliver an open platform for 
 
 It is an open extensible service - available as a standalone service (OpenDMP) and as a OpenAIRE service (ARGOS) - that simplifies the management, validation, monitoring and maintenance of Data Management Plans. It allows actors (researchers, managers, supervisors etc) to create actionable DMPs that may be freely exchanged among infrastructures for carrying out specific aspects of the Data management process in accordance with the intentions and commitment of Data owners. 
 
-
 ## DMPOnline
 https://dmponline.dcc.ac.uk/
 
 There are a number of templates within the tool that represent the requirements of different funders and institutions. Users are asked three questions at the outset so we can determine the appropriate template to display (e.g. the ESRC template when applying for an ESRC grant). Guidance is provided to help you interpret and answer the questions. This guidance is provided by researcher funders, universities and disciplines.
 
-##DMPTool
+## DMPTool
 https://dmptool.org/
+
 With this tool, you can create Data Management Plans that meet requirements and promote your research. It is built like a questionnaire and asking for entries, e.g. data collection, metadata, backup and storage strategies. With this tool, many users in a project can contribute. It also gives a lot of hints what to enter in specific fielda.
