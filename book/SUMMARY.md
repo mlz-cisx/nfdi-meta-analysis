@@ -16,11 +16,13 @@
 	* [IDSA](data_management/idsa.md)
 	* [Globus](data_management/globus.md)
 * Data Analysis
-	* [VISA]()
+	* [Common Workflow Language](data_analysis/cwl.md)
+	* [VISA](data_analysis/visa.md)
 	* [Workflow Engines](data_analysis/workflow_engines/workflow_engines.md)
 		* [Galaxy Project](data_analysis/workflow_engines/galaxy.md)
 		* [Prefact](data_analysis/workflow_engines/prefect.md)
 		* [Reana](data_analysis/workflow_engines/reana.md)
+		* [Nomad](data_analysis/workflow_engines/nomad.md)
 	* Machine Learning
 		* [Deep Hybrid Datacloud](data_analysis/ml/deep-hybrid-datacloud.md)
 * [Service Provider]()
