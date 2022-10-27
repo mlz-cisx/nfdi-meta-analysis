@@ -18,4 +18,4 @@ There are a number of templates within the tool that represent the requirements 
 ## DMPTool
 https://dmptool.org/
 
-With this tool, you can create Data Management Plans that meet requirements and promote your research. It is built like a questionnaire and asking for entries, e.g. data collection, metadata, backup and storage strategies. With this tool, many users in a project can contribute. It also gives a lot of hints what to enter in specific fielda.
+With this tool, you can create Data Management Plans that meet requirements and promote your research. It is built like a questionnaire and asking for entries, e.g. data collection, metadata, backup and storage strategies. With this tool, many users in a project can contribute. It also gives a lot of hints what to enter in specific fields.
