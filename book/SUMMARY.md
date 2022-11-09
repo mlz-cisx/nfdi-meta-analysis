@@ -12,9 +12,10 @@
 	* [Secop](sample_management/secop.md)
 * [Data Management]()
 	* [Data Management Plans](data_management/dmp.md)
-	* [OneData](data_management/onedata.md)
-	* [IDSA](data_management/idsa.md)
-	* [Globus](data_management/globus.md)
+	* [Data Space](data_management/data_space.md)
+		* [OneData](data_management/onedata.md)
+		* [IDSA](data_management/idsa.md)
+		* [Globus](data_management/globus.md)
 * Data Analysis
 	* [Common Workflow Language](data_analysis/cwl.md)
 	* [VISA](data_analysis/visa.md)
