@@ -13,7 +13,7 @@
 * Data Management
 	* [Data Management Plans](data_management/dmp.md)
 	* [Data Space](data_management/data_space.md)
-	* [Rucio](data_management/rucio.md)
+		* [Rucio](data_management/rucio.md)
 		* [OneData](data_management/onedata.md)
 		* [IDSA](data_management/idsa.md)
 		* [Globus](data_management/globus.md)
